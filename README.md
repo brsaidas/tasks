@@ -1,7 +1,7 @@
 # tasks-and-projects
 Some programming tasks
 
-this repository contains several projects, personal and academic of smaller size
+This repository contains several projects, personal and academic of smaller size
 
 ### project-nave demo
 
