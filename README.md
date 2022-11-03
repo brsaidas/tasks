@@ -3,7 +3,7 @@ Some programming tasks
 
 this repository contains several projects, personal and academic of smaller size
 
-# project-nave demo
+### project-nave demo
 
 project-nave demo video
 
